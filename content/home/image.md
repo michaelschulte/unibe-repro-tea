@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: unibe.jpg
+    image: unibe-repro-logo.svg
     image_darken: 0
     image_parallax: false
     image_position: center
