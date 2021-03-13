@@ -1,10 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "My Talk Name"
+title: "First Reproducibilitea (15.03.2021)"
 event:
 event_url:
-location:
+location: Zoom
 address:
   street:
   city:
@@ -16,8 +14,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-13T17:41:19+01:00
-date_end: 2021-03-13T17:41:19+01:00
+date: 2021-03-15T17:00:00+01:00
+#date_end: 2021-03-13T17:41:19+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
