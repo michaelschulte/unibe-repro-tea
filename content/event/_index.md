@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Upcoming ReproducibiliTeas
 
 # View.
 #   1 = List
