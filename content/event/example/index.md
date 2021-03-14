@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: "slides"
+url_slides: "content/slides/nosek.md"
 url_code:
 url_pdf:
 url_video:
