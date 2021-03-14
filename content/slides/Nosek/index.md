@@ -27,9 +27,9 @@ slides:
 
 ---
 
-<img src="Muffano.png" alt="" style="width:500px;height:600px;">
+<img src="Muffano.png" alt="https://www.nature.com/articles/s41562-016-0021?utm_content=buffer7cf17&utm_medium=social&utm_source=twitter.com&utm_campaign=manny" style="width:500px;">
 
-https://www.nature.com/articles/s41562-016-0021?utm_content=buffer7cf17&utm_medium=social&utm_source=twitter.com&utm_campaign=manny
+
 ---
 
 ## Fragments
