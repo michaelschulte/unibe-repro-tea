@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: "content/slides/nosek.md"
+url_slides: "content/slides/Nosek/index.md"
 url_code:
 url_pdf:
 url_video:
@@ -55,7 +55,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "nosek.md"
+slides: "Nosek/index.md"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
