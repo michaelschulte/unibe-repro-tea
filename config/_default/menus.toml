@@ -14,9 +14,9 @@
   weight = 40
 
 [[main]]
-name = "News"
-url = "post"
-weight = 50
+  name = "News"
+  url = "#post"
+  weight = 50
 
 [[main]]
   name = "Contact"
