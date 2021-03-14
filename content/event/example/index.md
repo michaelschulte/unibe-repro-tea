@@ -56,7 +56,7 @@ url_video:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: 
-	slides = "nosek.md"
+  slides = "nosek.md"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
