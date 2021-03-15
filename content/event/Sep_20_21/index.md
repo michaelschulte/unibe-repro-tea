@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "July_12_21"
+title: "Sep_20_21"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-07-12T17:00:00+01:00
-date_end: 2021-03-15T20:37:35+01:00
+date: 2021-09-20T17:00:00+01:00
+date_end: 2021-03-15T21:53:15+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-03-15T20:37:35+01:00
+publishDate: 2021-03-15T21:53:15+01:00
 
 authors: []
 tags: []
