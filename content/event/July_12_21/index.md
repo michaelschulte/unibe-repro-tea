@@ -13,7 +13,7 @@ address:
   country:
 summary:
 abstract:
-weight: 1
+weight: 2
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

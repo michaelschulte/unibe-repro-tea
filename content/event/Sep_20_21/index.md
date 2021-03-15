@@ -13,7 +13,7 @@ address:
   country:
 summary:
 abstract:
-
+weight: 3
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-09-20T17:00:00+01:00
