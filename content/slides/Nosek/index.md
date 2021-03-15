@@ -70,23 +70,36 @@ https://reproducibilitea.org
 
 - postdiction v. prediction
 - reward circle in science (novelty over incremental increase in knowledge)
-- 
+- where does pre-reg come into this?
 
 ---
+
+## Main points
 
 <img src="https://images.theconversation.com/files/161486/original/image-20170320-6133-adn580.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip" alt="https://www.nature.com/articles/s41562-016-0021?utm_content=buffer7cf17&utm_medium=social&utm_source=twitter.com&utm_campaign=manny" style="width:500px;">
 
+Munafo et al., 2017, https://doi.org/10.1038/s41562-016-0021
+---
+
+## Challenges (my favorites)
+
+1. Changes to procedure
+2. Discovering assumption violations
+3. Longitudinal studies
+4. Competing predictions (adverserial conversations)
 
 ---
 
+## Learn to pre-reg your work
+
+- Online courses (https://www.coursera.org/specializations/statistics, https://www.coursera.org/learn/statistical-inferences), instructional guides (help.osf.io/m/registrations/l/546603-enter-the-preregistration-challenge)
+- Criteria established for preregistration badge credentials (https://osf.io/6q7nm/)
+- Collections of preregistration templates (https://osf.io/zab38/wiki/home/).
+
+--- 
+
+## Says all for me: 
+
+Sometimes researchers use existing observations of nature to generate ideas about how the world works. This is called post- diction. Other times, researchers have an idea about how the world works and make new observations to test whether that idea is a reasonable explanation. This is called prediction. To make confident inferences, it is important to know which is which. Preregistration solves this challenge by requiring researchers to state how they will analyze the data before they observe it, allowing them to confront a prediction with the possibility of being wrong. Preregistration improves the interpretability and credibility of research findings.
 
 ---
-
-### Thank you! :sheep: 
-
-You can find me on
-
-- GitHub
-- Twitter
-- or email me
-
