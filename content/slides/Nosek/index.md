@@ -101,6 +101,9 @@ Munafo et al., 2017, https://doi.org/10.1038/s41562-016-0021
 
 ## Says all for me: 
 
-<p style="font-size:30px">Sometimes researchers use existing observations of nature to generate ideas about how the world works. This is called post- diction. Other times, researchers have an idea about how the world works and make new observations to test whether that idea is a reasonable explanation. This is called prediction. To make confident inferences, it is important to know which is which. Preregistration solves this challenge by requiring researchers to state how they will analyze the data before they observe it, allowing them to confront a prediction with the possibility of being wrong. Preregistration improves the interpretability and credibility of research findings.</p>
+<p style="font-size:30px; text-align: left;">Sometimes researchers use existing observations of nature to generate ideas about how the world works. This is called <b>post-diction</b>. Other times, researchers have an idea about how the world works and make new observations to test whether that idea is a reasonable explanation. This is called <b>prediction</b>. 
+To make confident <b>inferences</b>, it is important to know which is which. Preregistration solves this challenge by requiring researchers to state how they will analyze the data before they observe it, allowing them to <b>confront a prediction with the possibility of being wrong</b>. </p>
 
 ---
+
+# Discuss!
