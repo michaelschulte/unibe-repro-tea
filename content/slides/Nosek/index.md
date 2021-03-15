@@ -1,16 +1,54 @@
 ---
-title: Nosek, et al. (2018)
-summary: 
-authors: [MSM]
-tags: []
-categories: []
-date: "2021-03-15T00:00:00Z"
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+title: Unibe ReproducibiTea 
+tags: Nosek
+description: View the slide with "Slide Mode".
+---
+
+# ReproducibiliTea <br> Uni Bern
+
+<img src = "https://unibe-reptea.netlify.app/media/unibe-repro-logo.svg" width = 300 style="vertical-align:middle">
+
+https://unibe-reptea.netlify.app
+
+---
+
+## Reproduci-What?
+
+"We are a grassroots journal club initiative that helps researchers create local Open Science journal clubs at their universities to discuss diverse issues, papers and ideas about improving science, reproducibility and the Open Science movement."
+
+- Started in early 2018 at the University of Oxford
+- 126 institutions in 25 different countries
+
+
+https://reproducibilitea.org
+
+---
+
+## ReproducibiliTea UniBe
+
+<img src = "https://www.swissrn.org/img/SwissRNLogowide.png" style="float:right"  width = 300>
+
+- every 2 months
+- short intro (max 5 Minutes by volunteer)
+- ~40 minutes discussion
+- voting on next paper
+
+---
+
+## Code of conduct
+
+- be kind
+- everybody should be listened to
+- we are here to learn
+
+---
+
+## Quick Intro round
+
+- what is your first name (we don't do rank!)
+- what is your field of research/study
+- favorite band/composer
+
 ---
 
 # Intro: Nosek et al. (2018)
@@ -27,44 +65,19 @@ slides:
 
 ---
 
-<img src="Muffano.png" alt="https://www.nature.com/articles/s41562-016-0021?utm_content=buffer7cf17&utm_medium=social&utm_source=twitter.com&utm_campaign=manny" style="width:500px;">
+<img src="https://images.theconversation.com/files/161486/original/image-20170320-6133-adn580.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip" alt="https://www.nature.com/articles/s41562-016-0021?utm_content=buffer7cf17&utm_medium=social&utm_source=twitter.com&utm_campaign=manny" style="width:500px;">
 
 
 ---
 
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+### Thank you! :sheep: 
 
-## Custom Slide
+You can find me on
 
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
----
-
-# Next Paper?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
+- GitHub
+- Twitter
+- or email me
 
