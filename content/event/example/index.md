@@ -22,8 +22,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-03-13T17:41:19+01:00
 
-authors: []
-tags: []
+authors: [MSM]
+tags: [announcement]
 
 # Is this a featured event? (true/false)
 featured: false
