@@ -19,4 +19,4 @@ advanced:
 
 This is the Unibe Reproducibilitea journal club. We meet every 2 months to dicuss papers related to Open Science, Reproducibility, Pre-Registration, QRPs, good research practises and other fun topics.
 
-Make a suggestions for papers to read in here: https://docs.google.com/spreadsheets/d/19Vn4Nt95W8kieJXdWGQ_g3nocuyeauxngy0c54o6DYU/edit?usp=sharing
+Make a suggestions for papers to read in here: https://bit.ly/3vPE6mm
