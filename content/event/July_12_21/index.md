@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-url: https://psyarxiv.com/jqw35/download?format=pdf
+url: "https://psyarxiv.com/jqw35/download?format=pdf"
 #   icon_pack: fab
 #   icon: twitter
 
