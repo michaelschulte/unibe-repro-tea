@@ -10,7 +10,7 @@ address:
   postcode:
   country:
 summary: "We will discuss: Yarkoni, T. (2020). The generalizability crisis. Behavioral and Brain Sciences, 1-22."
-abstract: "https://psyarxiv.com/jqw35/download?format=pdf"
+abstract: 
 
 weight: 1
 
@@ -41,7 +41,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#   url: https://twitter.com
+url: https://psyarxiv.com/jqw35/download?format=pdf
 #   icon_pack: fab
 #   icon: twitter
 
