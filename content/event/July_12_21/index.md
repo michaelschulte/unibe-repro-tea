@@ -1,5 +1,4 @@
 ---
-
 title: "ReproTea UniBe (21.07.2021)"
 event:
 event_url:
@@ -11,7 +10,7 @@ address:
   postcode:
   country:
 summary: "We will discuss: Yarkoni, T. (2020). The generalizability crisis. Behavioral and Brain Sciences, 1-22."
-abstract: https://psyarxiv.com/jqw35/download?format=pdf
+abstract: "https://psyarxiv.com/jqw35/download?format=pdf"
 
 weight: 1
 
